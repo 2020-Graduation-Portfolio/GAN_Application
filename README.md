@@ -1,9 +1,19 @@
-Pusan National University 2020 Graduation Portfolio
+# Pusan National University 2020 Graduation Portfolio
 
-● 팀번호(Team No.): 35
+* 팀번호(Team No.): 35
+* 팀명(Team Name): 데려다줄게
+* 팀원(Team Member): 임도경(201424517), 최아윤(201624601), 최주연(201624606)
+* 주제(Subject) : GAN을 이용한 Application 만들기
 
-● 팀명(Team Name): 데려다줄게
+## Table of Contents
 
-● 팀원(Team Member): 임도경(201424517), 최아윤(201624601), 최주연(201624606)
+## Requirements
+* PyTorch
+* CUDA
+* face_alignment
+* Flask
+* Flask_Reuploaded
+* flask-ngrok
 
-● 주제(Subject) : GAN을 이용한 Application 만들기
+## Usage
+/dev/projects/fsgan/inference/upload.py 실행 
