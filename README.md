@@ -7,6 +7,14 @@
 
 pretrain model should get at https://github.com/YuvalNirkin/fsgan
 
+@inproceedings{nirkin2019fsgan,
+  title={{Fsgan}: Subject agnostic face swapping and reenactment},
+  author={Nirkin, Yuval and Keller, Yosi and Hassner, Tal},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={7184--7193},
+  year={2019}
+}
+
 ## Requirements
 * PyTorch
 * CUDA
