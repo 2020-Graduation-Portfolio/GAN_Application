@@ -5,7 +5,7 @@
 * 팀원(Team Member): 임도경(201424517), 최아윤(201624601), 최주연(201624606)
 * 주제(Subject) : GAN을 이용한 Application 만들기
 
-## Table of Contents
+pretrain model should get at https://github.com/YuvalNirkin/fsgan
 
 ## Requirements
 * PyTorch
